@@ -9,18 +9,6 @@
 
 - **快捷复制示例代码**
 
-- **基于URL定位文档位置**
-  - 群里小白太多(我也是小白)，有某个知识点不了解？直接丢给他一个URL，自动定位到相应的哪章哪节。
-  - URL 定位比如下面这条链接直接到达文档的 【查询标准库】 位置。
-  - [https://www.hongqiye.com/doc/aardio/#/libraries/import?id=_4、查询标准库](https://www.hongqiye.com/doc/aardio/#/libraries/import?id=_4%E3%80%81%E6%9F%A5%E8%AF%A2%E6%A0%87%E5%87%86%E5%BA%93)
-
-- **开源**
-  - 每个人都可以参与贡献。
-  - 包括但不限于: 添加新功能、修复错误、同步官方文档、添加代码片段。
-  - 源码地址: https://github.com/wll8/aardio_doc ，
-  - 欢迎参与贡献~
-
-
 ## 相关资源
 
 - [aardio 官网](http://www.aardio.com/)
